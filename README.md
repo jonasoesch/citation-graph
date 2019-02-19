@@ -14,7 +14,9 @@ First install all the dependencies with:
 pip install
 ```
 
-Then open the notebook with:
+You need an API-Key for the Microsoft [Academic Graph API](https://labs.cognitive.microsoft.com/en-us/project-academic-knowledge). Then copy and rename `config.py.example` to `config.py` and add your Academic Graph API Key.
+
+Now open the notebook with:
 
 ```
 jupyter notebook
